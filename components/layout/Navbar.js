@@ -37,7 +37,7 @@ export default {
                 <a class="nav-link" :class="{ active: isActive('index.html') }" href="index.html">Inicio</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" :class="{ active: isActive('miembros.html') }" href="miembros.html">Sobre nosaltres</a>
+                <a class="nav-link" :class="{ active: isActive('miembros.html') }" href="miembros.html">Sobre nosotros</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" :class="{ active: isActive('proyecto.html') }" href="proyecto.html">The Time Room</a>
